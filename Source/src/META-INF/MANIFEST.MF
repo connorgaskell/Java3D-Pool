@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: j3dcore.jar vecmath.jar j3dutils.jar
+Main-Class: gaskell.GaskellCCW2
+
